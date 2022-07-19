@@ -1,0 +1,7 @@
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\bin\Debug\helloworld.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\bin\Debug\helloworld.pdb
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\obj\Debug\helloworld.csproj.AssemblyReference.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\obj\Debug\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\obj\Debug\helloworld.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\helloworld\helloworld\obj\Debug\helloworld.pdb
