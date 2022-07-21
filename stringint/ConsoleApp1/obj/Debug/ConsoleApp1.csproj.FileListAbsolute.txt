@@ -1,0 +1,7 @@
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\stringint\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
