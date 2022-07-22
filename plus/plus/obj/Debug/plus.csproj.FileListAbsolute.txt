@@ -1,0 +1,7 @@
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\bin\Debug\plus.exe.config
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\bin\Debug\plus.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\bin\Debug\plus.pdb
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\obj\Debug\plus.csproj.AssemblyReference.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\obj\Debug\plus.csproj.CoreCompileInputs.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\obj\Debug\plus.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\plus\plus\obj\Debug\plus.pdb
