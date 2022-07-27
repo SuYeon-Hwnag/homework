@@ -10,31 +10,57 @@ namespace ifplus
     {
         static void Main(string[] args)
         {
+            string YesNO;
+            float aa = 0, cc = 0;
+            string cal;
+            float result = 0;
 
-
-            // a 'b' c 결과 도출 -> 매소드로 따로 뺄 것
-
-            do while (true)
+            do
             {
-                Console.WriteLine("Do you want keep going? Write Yes or No");
-                string yesno = Console.ReadLine();
-                if (yesno = Yes)
-                {
-                    // 계산하기
-                }
+                Console.WriteLine("Input int1: ");
+                aa = float.Parse(Console.ReadLine());
+ 
+                Console.WriteLine("Input int2: ");
+                cc = float.Parse(Console.ReadLine());
+
+                // 사칙연산 뭐 할지 묻기
+                Console.WriteLine("Input +,-,* or /: ");
+                cal = Console.ReadLine();
+
+                // 계산하기
+                Calculate(ref aa, ref cal ,ref cc, ref result);
+
+                // 계산 끝나고 물어보기
+                Console.WriteLine("Do you want to keep going? Write Yes or No");
+                YesNO = Console.ReadLine();
             }
+            while (YesNO == "Yes");
         }
-        // 계산 하기
-        string a, b, c;
-        Console.WriteLine("Input int1: ");
-            a = Console.ReadLine();
-            int int1 = int.Parse(a);
 
-        Console.WriteLine("Input +,-,* or /: ");
-            b = Console.ReadLine();
+        static void Calculate(ref float a, ref string b, ref float c, ref float result)
+        {
+            switch (b)
+            {
 
-            Console.WriteLine("Input int2: ");
-            c = Console.ReadLine();
-            int int2 = int.Parse(c);
+                case "+":
+                    result = a + c;
+                    break;
+                case "-":
+                    result = a - c;
+                    break;
+                case "*":
+                    result = a * c;
+                    break;
+                case "/":
+                    result = a / c;
+                    break;
+                default:
+                    Console.WriteLine("error");
+                    break;
+            }
+            Console.WriteLine("result = {0}",result);
+
+
+        }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\obj\Debug\ifplus.csproj.AssemblyReference.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\obj\Debug\ifplus.csproj.CoreCompileInputs.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\bin\Debug\ifplus.exe.config
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\bin\Debug\ifplus.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\bin\Debug\ifplus.pdb
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\obj\Debug\ifplus.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\ifplus\ifplus\obj\Debug\ifplus.pdb
