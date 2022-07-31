@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\homework\forstar\forstar\bin\Debug\forstar.exe.config
+C:\Users\admin\Desktop\homework\forstar\forstar\bin\Debug\forstar.exe
+C:\Users\admin\Desktop\homework\forstar\forstar\bin\Debug\forstar.pdb
+C:\Users\admin\Desktop\homework\forstar\forstar\obj\Debug\forstar.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\homework\forstar\forstar\obj\Debug\forstar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\homework\forstar\forstar\obj\Debug\forstar.exe
+C:\Users\admin\Desktop\homework\forstar\forstar\obj\Debug\forstar.pdb
