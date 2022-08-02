@@ -1,0 +1,7 @@
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\obj\Debug\ballstrike.csproj.AssemblyReference.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\obj\Debug\ballstrike.csproj.CoreCompileInputs.cache
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\bin\Debug\ballstrike.exe.config
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\bin\Debug\ballstrike.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\bin\Debug\ballstrike.pdb
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\obj\Debug\ballstrike.exe
+C:\Users\hotst\OneDrive\바탕 화면\homework\ballstrike\ballstrike\obj\Debug\ballstrike.pdb
