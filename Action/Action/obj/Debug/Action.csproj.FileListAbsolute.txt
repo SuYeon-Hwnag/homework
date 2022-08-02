@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\homework\Action\Action\obj\Debug\Action.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\homework\Action\Action\obj\Debug\Action.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\homework\Action\Action\bin\Debug\Action.exe.config
+C:\Users\admin\Desktop\homework\Action\Action\bin\Debug\Action.exe
+C:\Users\admin\Desktop\homework\Action\Action\bin\Debug\Action.pdb
+C:\Users\admin\Desktop\homework\Action\Action\obj\Debug\Action.exe
+C:\Users\admin\Desktop\homework\Action\Action\obj\Debug\Action.pdb
