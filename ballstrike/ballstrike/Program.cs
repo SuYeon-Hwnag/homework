@@ -10,19 +10,25 @@ namespace ballstrike
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("숫자야구 3글자 입력, 겹치는 숫자X: ");
-            string input_first = Console.ReadLine(); // input_first으로 숫자 받기
-            char[] input_first_Array = input_first.ToCharArray(); // 숫자 받은걸 배열로 만듦
             int PlayRound = 1; // 플레이하는 중인 라운드
+            int[] Answer_Array; // Answer 불러옴
+            Answer_Array = Answer();
+
+            /*
+            foreach (var item in Answer_Array)
+            {
+                Console.WriteLine(item);  // 답 확인용
+            }
+            */
 
             while (true)
             {
                 Console.WriteLine($"{PlayRound}번째 시도 중"); // 현 라운드 공지
+                Console.WriteLine("숫자야구 3글자 입력, 겹치는 숫자X: ");
+                string input_first = Console.ReadLine(); // input_first으로 숫자 받기
+                char[] input_first_Array = input_first.ToCharArray(); // 숫자 받은걸 배열로 만듦
 
-                int[] Answer_Array; // Answer불러와서 세자리 숫자 정함
-                Answer_Array = Answer();
-
-                if (Compare_first_Answer(input_first_Array, Answer_Array))  // Answer_Array에서 오류가 나요!
+                if (Compare_first_Answer(input_first_Array, Answer_Array))
                 {
                     break;
                 }
@@ -43,17 +49,17 @@ namespace ballstrike
             {
                 bool overlap = true; // 겹치면 false 반환해서 다시 돌리기 위함
                 Answer_Array[set_hundred] = new Random().Next(0, 9); // 랜덤 숫자 넣음
-                for (int i = set_hundred - 1; set_hundred >= 0; set_hundred--) // 일의 자리부터 겹치는지 확인 후 수정
+                for (int i = set_hundred - 1; i >= 0; i--) // 일의 자리부터 겹치는지 확인 후 수정
                 {
                     if (Answer_Array[set_hundred] == Answer_Array[i])
                     {
                         overlap = false;
                         break;
                     }
-                    if (overlap) // 안겹치고 빠져나오면 자릿수 하나 높임
-                    {
-                        set_hundred++;
-                    }
+                }
+                if (overlap) // 안겹치고 빠져나오면 자릿수 하나 높임
+                {
+                    set_hundred++;
                 }
             }
             return Answer_Array;
