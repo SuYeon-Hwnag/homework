@@ -19,7 +19,8 @@ namespace ballstrike
             {
                 Console.WriteLine($"{PlayRound}번째 시도 중"); // 현 라운드 공지
 
-                Answer(); // Answer불러와서 세자리 숫자 정함
+                int[] Answer_Array; // Answer불러와서 세자리 숫자 정함
+                Answer_Array = Answer();
 
                 if (Compare_first_Answer(input_first_Array, Answer_Array))  // Answer_Array에서 오류가 나요!
                 {
@@ -34,7 +35,7 @@ namespace ballstrike
         }
 
         // set Random Number 
-        public static void Answer()
+        public static int[] Answer()
         {
             int set_hundred = 0; // 3자리수 설정 위함
             int[] Answer_Array = new int[3]; // 3자리수 각각 자리 설정 array로
@@ -55,6 +56,7 @@ namespace ballstrike
                     }
                 }
             }
+            return Answer_Array;
         }
 
         // 숫자 하나씩 비교할 때 쓰는 것
@@ -103,4 +105,3 @@ namespace ballstrike
         }
     }
 }
-
